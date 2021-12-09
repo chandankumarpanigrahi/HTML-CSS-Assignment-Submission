@@ -1,0 +1,33 @@
+.myname{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(54, 0, 126);
+    font-family: 'Dancing Script', cursive;
+}
+hr{
+    border: 2px solid rgb(2, 29, 88);
+    color: rgb(2, 29, 88);
+}
+table, tr, td, th{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    
+}
+th{
+    background-color:rgb(0, 20, 131);
+    color: rgb(248, 247, 255);
+    font-size: large;
+}
+.ch1{
+    background-color:rgb(206, 222, 255);
+}
+.ch2{
+    background-color:rgb(161, 190, 247);
+}
+tr{
+    color: rgb(0, 0, 102);
+}
